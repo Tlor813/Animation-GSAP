@@ -1,7 +1,5 @@
 /* Diagnostic Styling */
-* {
-  outline: 2px dotted gray;
-} 
+
 
 /* temp background color */
 body {
@@ -32,4 +30,30 @@ svg {
   height: auto;
   /* Center and fit */
   preserveAspectRatio: xMidYMid meet;
+}
+
+#finger{
+  stroke: red;
+}
+
+#body{
+  stroke: blue;
+}
+
+#head{
+  stroke: darkblue;
+}
+
+.slash{
+  stroke: red;
+}
+
+.leftBody{
+  stroke: green;
+}
+.arm{
+  stroke: green;
+}
+.middle{
+  stroke: green;
 }
